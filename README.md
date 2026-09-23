@@ -34,17 +34,17 @@ It enables field officers to collect land information, capture photographs, mark
   - Store field data locally.
 
 
-- ✅ Parcel Verification
+-  Parcel Verification
   
   - Verified
   - Mismatch
   - Pending
 
-- 📄 Digital Inspection Report
+-  Digital Inspection Report
   
   - Generate a structured digital record after completing an inspection.
 
-🛠️ Tech Stack
+ Tech Stack
 
 Technology| Purpose
 Flutter| Cross-platform mobile application
@@ -54,7 +54,7 @@ Maps| Parcel visualization & boundary marking
 Local Storage| Offline data handling
 Git & GitHub| Version control
 
-🏗️
+
  Application Workflow
 
 Field Officer
@@ -77,13 +77,13 @@ Synchronize Data
      ↓
 Digital Inspection Record
 
-🎯 Problem Statement
+Problem Statement
 
 Traditional field-based land inspection can involve manual paperwork, inconsistent data collection, connectivity limitations, and difficulty maintaining accurate digital records.
 
 FieldX aims to provide a mobile-first digital workflow that allows field officers to perform parcel surveys even in areas with limited or no internet connectivity.
 
-💡 Why FieldX?
+ Why FieldX?
 
 FieldX focuses on combining:
 
